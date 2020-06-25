@@ -2,6 +2,8 @@
 # wc-menu-wrapper
 A web component that wraps HTML elements and forms a drop-down menu out of them.
 
+Live demo available [here.](http://51.38.51.120/wcmenuwrapper/)
+
 ## Features
 Wc-menu-wrapper is a standalone vanilla JS web component that does not use shadow DOM.
 
