@@ -1,0 +1,3 @@
+terser wc-menu-wrapper.js -c -m --mangle-props reserved=[constructor,observedAttributes,disconnectedCallback,attributeChangedCallback,connectedCallback,Custommenu,position,direction,mode,closeSubmenusOnClosing,closeSubmenusOnHeadingClick,headingClass,initStateOpen,closingDelay,addItem,deleteItem,menuContent] -o wc-menu-wrapper.min.js
+
+terser wc-menu-wrapper-node.js -c -m --mangle-props reserved=[constructor,observedAttributes,disconnectedCallback,attributeChangedCallback,connectedCallback,Custommenu,position,direction,mode,closeSubmenusOnClosing,closeSubmenusOnHeadingClick,headingClass,initStateOpen,closingDelay,addItem,deleteItem,menuContent] -o wc-menu-wrapper-node.min.js

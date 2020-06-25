@@ -1,0 +1,34 @@
+{
+  "name": "@vanillawc/wc-menu-wrapper",
+  "version": "0.0.0",
+  "description": "A web component that wraps HTML elements and forms a drop-down menu out of them.",
+  "main": "dist/wc-menu-wrapper-node.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist/wc-menu-wrapper-node.min.js",
+    "dist/wc-menu-wrapper-node.js",
+    "dist/minify.cmd"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanillawc/wc-menu-wrapper.git"
+  },
+  "keywords": [
+    "web-component",
+    "custom-element",
+    "vanilla-web-component",
+    "html",
+    "javascript",
+    "drop-down",
+    "dropdown",
+    "menu"
+  ],
+  "author": "Jussi Utunen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanillawc/wc-menu-wrapper/issues"
+  },
+  "homepage": "https://github.com/vanillawc/wc-menu-wrapper#readme"
+}
