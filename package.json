@@ -1,6 +1,6 @@
 {
   "name": "@vanillawc/wc-menu-wrapper",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A web component that wraps HTML elements and forms a drop-down menu out of them.",
   "main": "dist/wc-menu-wrapper-node.min.js",
   "scripts": {
