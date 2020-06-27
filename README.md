@@ -1,3 +1,5 @@
+[![minified](https://badgen.net/badge/minified/4.3%20kB/blue)](https://badgen.net/badge/minified/4.3%20kB/blue)
+[![minified & compressed](https://badgen.net/badge/minified%20&%20compressed/1.9%20kB/blue)](https://badgen.net/badge/minified%20&%20compressed/1.9%20kB/blue)
 
 # wc-menu-wrapper
 A web component that wraps HTML elements and forms a drop-down menu out of them.
